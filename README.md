@@ -6,7 +6,7 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python :
     
     2. Prédiction du mot suivant le plus élevé (N-gram)
 
-.
+Structure du modèle
 ├── models/  
 │   ├── __pycache__/  
 │   ├── ngram.py             # n-gram 模型实现  
