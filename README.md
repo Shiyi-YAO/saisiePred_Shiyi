@@ -7,23 +7,6 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
 1. **Complétion de mots (Trie)** - Suggère des complétions possibles pour les mots partiellement saisis
 2. **Prédiction du mot suivant (N-gram)** - Prédit le prochain mot le plus probable basé sur le contexte
 
-## Structure du projet
-
-```
-text/
-├── models/                     // stocke les modèles
-│   ├── __pycache__/           // caches Python
-│   ├── ngram.py               // implémentation du modèle n-gram
-│   └── trie.py                // implémentation du Trie
-├── 88milSMS_88522.xlsx        // corpus SMS d'origine
-├── interface.py               // interface CLI interactive
-├── main.py                    // script d'entrée principal
-├── utils.py                   // fonctions utilitaires (chargement, prétraitement)
-├── ngram_test.py              // tests unitaires du modèle n-gram
-├── trie_test.py               // tests unitaires du Trie
-└── README.md                  // documentation (ce fichier)
-```
-
 ## Fonctionnalités
 
 ### 1. Complétion de mots (Trie)
@@ -36,8 +19,21 @@ text/
 - Basé sur l'analyse des séquences de mots dans le corpus
 - Support des bigrammes et trigrammes
 
-## Installation
-- git clone 
+## Setup
 
-### Prérequis
-- Python 3.7 ou supérieur
+### Exigences
+1. **Python 3.7+**: Assurez-vous d'avoir installé Python 3.7 ou supérieur.
+
+### Installation
+1. Clone this repository:
+   ```bash
+   nos site
+   ```
+
+2. Install the required Python packages:
+   ```bash
+   package name
+   ```
+### Exécution
+
+1. 
