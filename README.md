@@ -36,4 +36,10 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
    ```
 ### Exécution
 
-1. 
+1. Commencer par ...
+
+
+## Référence :
+   ```bash
+   https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/starter_ai_agents/ai_blog_to_podcast_agent/README.md?plain=1
+   ```
