@@ -25,17 +25,29 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
 1. **Python 3.7+**: Assurez-vous d'avoir installé Python 3.7 ou supérieur.
 
 ### Installation
-1. Ouvrir ce ficher dans terminal
+1. Ouvrir ce ficher dans terminal (pour MacOS et Windows)
 
 2. Install the required Python packages:
+
+   MacOS
    ```bash
    pip3 install pandas scikit-learn matplotlib nltk openpyxl
+   ```
+   Windows
+   ```bash
+   pip! install pandas scikit-learn matplotlib nltk openpyxl
    ```
 ### Exécution
 
 1. Vous pouvez commencer à expérimenter notre modèle !
+   
+   MacOS
    ```bash
    python3 main.py
+   ```
+   Windows
+   ```bash
+   py main.py
    ```
 
 ## Référence :
