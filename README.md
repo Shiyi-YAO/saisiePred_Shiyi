@@ -25,19 +25,18 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
 1. **Python 3.7+**: Assurez-vous d'avoir installé Python 3.7 ou supérieur.
 
 ### Installation
-1. Clone this repository:
-   ```bash
-   nos site
-   ```
+1. Ouvrir ce ficher dans terminal
 
 2. Install the required Python packages:
    ```bash
-   package name
+   pip3 install pandas scikit-learn matplotlib nltk openpyxl
    ```
 ### Exécution
 
-1. Commencer par ...
-
+1. Vous pouvez commencer à expérimenter notre modèle !
+   ```bash
+   python3 main.py
+   ```
 
 ## Référence :
    ```bash
