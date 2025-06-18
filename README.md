@@ -65,7 +65,7 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
 
    MacOS
    ```bash
-   python3 -m ngramme.test_ngramme
+   python3 -m trie.test_trie
    ```
    Windows
    ```bash
