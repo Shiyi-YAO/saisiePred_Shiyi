@@ -25,7 +25,7 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
 1. **Python 3.7+**: Assurez-vous d'avoir installé Python 3.7 ou supérieur.
 
 ### Installation
-1. Ouvrir ce ficher dans terminal (pour MacOS et Windows)
+1. Ouvrir ce ficher(SaisivePredictive) dans terminal (pour MacOS et Windows)
 
 2. Install the required Python packages:
 
@@ -49,6 +49,29 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
    ```bash
    py main.py
    ```
+
+2. Si vous voulez tester notre programme : 
+- test de n-gram
+  
+   MacOS
+   ```bash
+   python3 -m ngramme.test_ngramme
+   ```
+   Windows
+   ```bash
+   py -m ngramme.test_ngramme
+   ```
+- test du tri
+
+   MacOS
+   ```bash
+   python3 -m ngramme.test_ngramme
+   ```
+   Windows
+   ```bash
+   py -m trie.test_trie
+   ```
+  
 
 ## Référence :
    ```bash
