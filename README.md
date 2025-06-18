@@ -35,7 +35,7 @@ Ce projet implémente deux prédictions de texte courantes basées sur Python po
    ```
    Windows
    ```bash
-   pip! install pandas scikit-learn matplotlib nltk openpyxl
+   pip install pandas scikit-learn matplotlib nltk openpyxl
    ```
 ### Exécution
 
